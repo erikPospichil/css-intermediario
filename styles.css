@@ -44,3 +44,13 @@ body {
   width: 100%;
   z-index: 1;
 }
+
+#instrumento-cinza {
+  background-color: rgb(167, 162, 117);
+  height: 40%;
+  left: 125px;
+  position: absolute;
+  top: 50px;
+  width: 15%;
+  z-index: 1;
+}
