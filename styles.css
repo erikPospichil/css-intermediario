@@ -230,3 +230,26 @@ body {
   width: 200px;
   z-index: 3;
 }
+
+.olhos {
+  background-color: #8b4513;
+  border-radius: 20px 50%;
+  height: 20px;
+  width: 35px;
+}
+
+.direito {
+  position: absolute;
+  right: 30px;
+  top: 15px;
+}
+
+.esquerdo {
+  left: 30px;
+  position: absolute;
+  top: 15px;
+}
+
+.fas {
+  font-size: 30px;
+}
