@@ -142,3 +142,12 @@ body {
   top: 50%;
   width: 400px;
 }
+
+#personagem-laranja {
+  background-color: rgb(240, 78, 42);
+  height: 550px;
+  left: 40%;
+  position: absolute;
+  top: 25%;
+  width: 250px;
+}
