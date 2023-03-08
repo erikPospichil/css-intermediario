@@ -74,3 +74,12 @@ body {
   width: 450px;
   z-index: 1;
 }
+
+#personagem-preto {
+  background-color: rgb(45, 31, 19);
+  height: 500px;
+  left: 59%;
+  position: absolute;
+  top: 30%;
+  width: 300px;
+}
