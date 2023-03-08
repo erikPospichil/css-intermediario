@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(184, 132, 46);
+}
+
+#parede-fundo {
+  background-color: #8b4513;
+  height: 60%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
