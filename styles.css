@@ -162,3 +162,12 @@ body {
   width: 180px;
   z-index: -1;
 }
+
+#olhos-div {
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: -40px;
+  width: 180px;
+  z-index: 3;
+}
