@@ -188,3 +188,45 @@ body {
   height: 0;
   width: 0;
 }
+
+#violao {
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 100%;
+  z-index: 3;
+}
+
+.violao {
+  background-color: goldenrod;
+  border-radius: 50%;
+  height: 120px;
+  width: 150px;
+}
+
+#violao-esquerda {
+  left: 0px;
+  position: absolute;
+}
+
+#violao-direita {
+  left: 100px;
+  position: absolute;
+}
+
+.fa-bars {
+  display: block;
+  margin-left: 40%;
+  margin-top: 30%;
+}
+
+#braco-violao {
+  background-color: #d2691e;
+  height: 30px;
+  left: 200px;
+  position: absolute;
+  top: 45px;
+  width: 200px;
+  z-index: 3;
+}
