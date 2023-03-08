@@ -106,3 +106,13 @@ body {
   top: -10px;
   width: 150px;
 }
+
+#papel-branco {
+  background-color: ghostwhite;
+  height: 100px;
+  left: -150px;
+  position: absolute;
+  top: 250px;
+  width: 400px;
+  z-index: 1;
+}
