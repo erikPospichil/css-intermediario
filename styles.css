@@ -64,3 +64,13 @@ body {
   margin-top: 65%;
   width: 10px;
 }
+
+#mesa-bronze {
+  background-color: #d2691e;
+  height: 140px;
+  left: 15px;
+  position: absolute;
+  top: 275px;
+  width: 450px;
+  z-index: 1;
+}
