@@ -171,3 +171,20 @@ body {
   width: 180px;
   z-index: 3;
 }
+
+#triangulos {
+  height: 550px;
+  width: 250px;
+}
+
+.triangulo {
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-right-color: gold;
+  border-style: solid;
+  border-top-color: transparent;
+  border-width: 42px 45px 45px 0;
+  display: inline-block;
+  height: 0;
+  width: 0;
+}
