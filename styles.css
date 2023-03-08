@@ -122,3 +122,23 @@ body {
   margin-top: 8%;
   margin-left: 13%;
 }
+
+.azul {
+  background-color: #1e90ff;
+}
+
+#azul-esquerda {
+  height: 300px;
+  left: 20%;
+  position: absolute;
+  top: 20%;
+  width: 500px;
+}
+
+#azul-direita {
+  height: 300px;
+  left: 40%;
+  position: absolute;
+  top: 50%;
+  width: 400px;
+}
