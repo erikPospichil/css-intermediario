@@ -97,3 +97,12 @@ body {
   top: -150px;
   width: 0;
 }
+
+#mascara-cinza {
+  background-color: rgb(167, 162, 117);
+  height: 150px;
+  left: 70px;
+  position: absolute;
+  top: -10px;
+  width: 150px;
+}
